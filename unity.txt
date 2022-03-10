@@ -1,2 +1,6 @@
 untity function
+<<<<<<< HEAD
 video 6
+=======
+it is function on an github
+>>>>>>> 4613515b5c005311644a4f08e6d840de0499729b
