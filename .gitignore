@@ -1,0 +1,4 @@
+unity.txt
+*.pyc
+*.sql
+_pycache_/
